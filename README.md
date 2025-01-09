@@ -1,7 +1,7 @@
 # Desktop-Assistant
 Overview:
 
-Mark-1 Desktop Assistant is an intelligent, voice-activated personal assistant designed to streamline routine tasks through natural language processing. It integrates speech recognition and automation capabilities to enhance productivity and user interaction.
+This Desktop Assistant is an intelligent, voice-activated personal assistant designed to streamline routine tasks through natural language processing. It integrates speech recognition and automation capabilities to enhance productivity and user interaction.
 
 Key Features:
 
@@ -12,4 +12,4 @@ GUI Implementation: Features a graphical user interface (GUI) designed using Tki
 Customization & Flexibility: Configurable paths for local applications and adaptable to additional functionalities for user-specific needs.
 Impact:
 
-The Mark-1 Assistant automates daily operations, reducing manual effort while enhancing user experience with a robust voice interface. Its scalable architecture provides a foundation for future extensions, including integration with IoT devices or additional APIs for expanded functionality.
+This Assistant automates daily operations, reducing manual effort while enhancing user experience with a robust voice interface. Its scalable architecture provides a foundation for future extensions, including integration with IoT devices or additional APIs for expanded functionality.
