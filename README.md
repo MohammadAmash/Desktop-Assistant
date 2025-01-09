@@ -10,6 +10,7 @@ Multi-Tasking Capabilities: Performs diverse tasks like opening websites (Google
 Advanced Libraries: Utilizes Python libraries including SpeechRecognition, pyttsx3, and Wikipedia API to deliver accurate and real-time responses.
 GUI Implementation: Features a graphical user interface (GUI) designed using Tkinter, allowing users to input commands and view results seamlessly.
 Customization & Flexibility: Configurable paths for local applications and adaptable to additional functionalities for user-specific needs.
+
 Impact:
 
 This Assistant automates daily operations, reducing manual effort while enhancing user experience with a robust voice interface. Its scalable architecture provides a foundation for future extensions, including integration with IoT devices or additional APIs for expanded functionality.
